@@ -6,4 +6,4 @@ The three(3) datasets; flight.csv, airlines.csv and airport.csv used in the visu
 # Questions asked
 * Number of flights in each state
 * How many airlines were diverted and canceled?
-* Departure delay of airlines over state and Airline.
+* Departure delay of airlines over state and airline.
